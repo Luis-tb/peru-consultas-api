@@ -33,8 +33,8 @@ Diseñado específicamente para integrarse con **sistemas ERP, plataformas de fa
 
 ### 1. Clonar el repositorio
 ```bash
-git clone https://github.com/Luis-tb/CONSULTAR-RUC.git
-cd CONSULTAR-RUC
+git clone https://github.com/Luis-tb/peru-consultas-api.git
+cd peru-consultas-api
 ```
 
 ### 2. Configurar variables de entorno
